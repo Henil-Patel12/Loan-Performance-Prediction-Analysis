@@ -1,8 +1,6 @@
 
 # Loan Performance Prediction Analysis
 
-![Project Overview](https://via.placeholder.com/800x300?text=Loan+Performance+Prediction)
-
 ## 📋 Project Overview
 
 The **Loan Performance Prediction Analysis** project is a comprehensive data analysis and machine learning pipeline aimed at predicting loan defaults based on historical loan data. The analysis uncovers key insights about loan performance, borrower behavior, and default patterns.
@@ -169,6 +167,6 @@ For any questions or feedback, feel free to reach out:
 
 ## 🌟 Acknowledgments
 
-Special thanks to the open-source community and the datasets provided by LendingClub for enabling this project.
+Special thanks to the open-source community and the datasets provided by https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset/data for enabling this project.
 
 ---
